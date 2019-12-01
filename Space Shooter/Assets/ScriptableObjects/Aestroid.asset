@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2283cc542c3d4ea43af036829365500d, type: 3}
+  m_Name: Aestroid
+  m_EditorClassIdentifier: 
+  enemyCount: 5
+  projectiles:
+  - {fileID: 7534037199858170783, guid: 787464421ab3d8b4c9e6b0a31fcefee8, type: 3}
+  - {fileID: 3380702792145175316, guid: dd3e19cb3132367469ee6d1e1cc49965, type: 3}
+  - {fileID: 3872609691499442284, guid: 05ecee75dd221de4b97641c714c72eb2, type: 3}
+  - {fileID: 2254019727370153977, guid: 828242712352c5c409e6e42cea601ff6, type: 3}

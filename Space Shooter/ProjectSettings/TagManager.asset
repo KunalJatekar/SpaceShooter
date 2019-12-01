@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyBullet
+  - PlayerBullet
+  - PowerUps
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BgPlanet
+    uniqueID: 732874255
+    locked: 0
+  - name: Player
+    uniqueID: 479503457
+    locked: 0
+  - name: Aestroid
+    uniqueID: 2937163101
+    locked: 0
+  - name: Enemy
+    uniqueID: 4176462255
+    locked: 0
+  - name: PowerUpPillRed
+    uniqueID: 68553017
+    locked: 0
+  - name: PowerUpRedBolt
+    uniqueID: 1832618395
+    locked: 0
+  - name: PowerUpRedShield
+    uniqueID: 3897323859
+    locked: 0
+  - name: PowerUpRedStar
+    uniqueID: 137011903
+    locked: 0
